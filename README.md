@@ -9,10 +9,7 @@ A AluraBooks é uma loja online focada na venda de livros técnicos. Durante o c
 - **Carrossel**: Para destacar conteúdos relevantes.
 - **Card**: Exibição de livros com informações.
 - **Menu hambúrguer**: Navegação otimizada para dispositivos móveis.
-- **Layouts responsivos**: Implementação para resoluções de:
-  - **Mobile**: 428px
-  - **Tablet**: 1024px
-  - **Desktop**: 1728px
+- **Layouts responsivos**: Responsividade para diferentes tela e dispositivos.
 
 ## 🛠️ Tecnologias Utilizadas
 
